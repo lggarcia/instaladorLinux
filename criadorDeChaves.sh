@@ -44,7 +44,5 @@ fi
         
         zenity --question --title="Instalador de Chaves SSH" --text="Mais algum?"   --width=500 --height=50
     done
-    
-#ssh-copy-id -p 9999 pi@vpnbr1.ddns.me
 
 zenity --info --title="Garcia Explica | Luciano Garcia" --text="Gostou ? Considere inscrever-se no canal youtube.com/GarciaExplica"   --width=500 --height=50
