@@ -94,6 +94,8 @@ then
         ./criadorDeUpdates.sh
 
         ./instaladorDeProgramas.sh
+        
+        ./instaladorDeTemasGrub.sh
 
         sudo ./criadorDeChaves.sh
 
