@@ -87,6 +87,8 @@ then
 
         zenity --info --title="Script Master" --text="Este Script tem vários utilitários... Se você precisa utilizar somente um, tente rodar o script especifico..."   --width=500 --height=50
         
+        sudo chmod +x *.sh
+        
         ./criadorDeEspelhos.sh
 
         ./criadorDeUpdates.sh
