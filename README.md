@@ -1,5 +1,5 @@
-# instaladorLinux
-Scripts para facilitar a instalação e configuração de linux.
+# Instalador Linux 
+## Scripts para facilitar a instalação e configuração de linux.
 
 A ideia aqui é simples... Eu necessitava um script que me ajudasse e automatizasse a instalação e algumas configurações no linux,
 então eu resolvi fazer estes scripts.
@@ -11,21 +11,36 @@ nao exite em pedir, quem sabe eu já esteja trabalhado nessa sua necessidade, ou
 no script em futuras revisões...
 
 Para utilizar cada script separadamente, simplesmnete os execute...
-Para utilizar o utilitario como um todo, que reunie e executa todos os scripts automaticamente, execute o SCRIPT MASTER
+Para utilizar o utilitario como um todo, que reune e executa todos os scripts automaticamente, execute o 
 
-Para executar um script basta abrir o terminal e digitar ./NOMEDOSCRIPT.sh
+``` MASTER SCRIPT ```
 
-CRIADO POR LUCIANO GARCIA
-PARA MAIS DUVIDAS VISITE:
-HTTP://YOUTUBE.COM/GARCIAEXPLICA <> 
-HTTP://GARCIAEXPLICA.DDNS.ME <> 
-LUCIANOG.GARCIA@ĦOTMAIL.COM
+Para executar um script basta abrir o terminal e digitar
 
-ESTE SCRIPT NAO TEM ABSOLUTAMENTE NENHUMA GARATINA
-USE POR SUA CONTA E RISCO
+```./nomeDoScript.sh```
 
-POR FAVOR, MODIFIQUE, MELHORE E COMPARTILHE...
-SO PEÇO QUE NAO RETIRE MINHA AUTORIA,
-CASO SUA OBRA DE ARTE SEJA BASEADA NA MINHA...
+(mas ele precisa ser executável, se você ainda não fez isso, ou não sabe fazer, simplesmente digite 
 
-Obrigado...
+``` sudo chmod +x *.sh ```
+
+e logo em seguida poderá executá-los)
+
+
+
+
+
+
+
+### PARA MAIS DUVIDAS VISITE:
+### [Youtube](HTTP://YOUTUBE.COM/GARCIAEXPLICA)
+### [GarciaExplica](HTTP://GARCIAEXPLICA.DDNS.ME) 
+### LUCIANOG.GARCIA@HOTMAIL.COM
+
+### ESTE SCRIPT NAO TEM ABSOLUTAMENTE NENHUMA GARATINA
+### USE POR SUA CONTA E RISCO
+
+## POR FAVOR, MODIFIQUE, MELHORE E COMPARTILHE...
+## SO PEÇO QUE NAO RETIRE MINHA AUTORIA,
+## CASO SUA OBRA DE ARTE SEJA BASEADA NA MINHA...
+
+# Obrigado...
